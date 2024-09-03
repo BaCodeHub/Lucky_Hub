@@ -2,9 +2,11 @@
 
 Step into an exciting world with Lucky Hub! With our app, you can buy tickets, participate in various draws, and win fantastic rewards. Thanks to our easy-to-use interface, you can quickly join the draw you want and secure your place on the winners' list to grab big prizes.
 
-![Lucky Hub Screenshot 1](./Screenshots/image1.jpeg)
-![Lucky Hub Screenshot 2](./Screenshots/image2.jpeg)
-![Lucky Hub Screenshot 3](./Screenshots/image3.jpeg)
+<p align="center">
+  <img src="./Screenshots/image1.jpeg" alt="Lucky Hub Screenshot 1" width="250"/>
+  <img src="./Screenshots/image2.jpeg" alt="Lucky Hub Screenshot 2" width="250"/>
+  <img src="./Screenshots/image3.jpeg" alt="Lucky Hub Screenshot 3" width="250"/>
+</p>
 
 ## Key Features
 
@@ -13,9 +15,11 @@ Step into an exciting world with Lucky Hub! With our app, you can buy tickets, p
 - **Real Rewards:** Win real and valuable rewards when you win.
 - **Secure Payment:** Comfortably purchase your tickets with our crypto payment method.
 
-![Lucky Hub Screenshot 4](./Screenshots/image4.jpeg)
-![Lucky Hub Screenshot 5](./Screenshots/image5.jpeg)
-![Lucky Hub Screenshot 6](./Screenshots/image6.jpeg)
+<p align="center">
+  <img src="./Screenshots/image4.jpeg" alt="Lucky Hub Screenshot 4" width="250"/>
+  <img src="./Screenshots/image5.jpeg" alt="Lucky Hub Screenshot 5" width="250"/>
+  <img src="./Screenshots/image6.jpeg" alt="Lucky Hub Screenshot 6" width="250"/>
+</p>
 
 ## Download Now
 
@@ -23,7 +27,9 @@ Download Lucky Hub now and start trying your luck. Big rewards are waiting for y
 
 [Download from Google Play Store](https://play.google.com/store/apps/details?id=com.LuckyHub.BaCodeHub)
 
-![Lucky Hub Screenshot 7](./Screenshots/image7.jpeg)
+<p align="center">
+  <img src="./Screenshots/image7.jpeg" alt="Lucky Hub Screenshot 7" width="250"/>
+</p>
 
 ## NOTE
 
